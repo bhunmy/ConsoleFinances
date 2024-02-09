@@ -129,7 +129,7 @@ const dataset = [
       "($" + greatestDecrease.amount + ")"
     );
   
-    // Bonus: Display results in the web page
+    // Displaying  results in the web page
     const resultsContainer = document.getElementById("results");
     resultsContainer.innerHTML = `
       <h2>Financial Analysis</h2>
