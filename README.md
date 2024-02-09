@@ -24,7 +24,7 @@ To use the financial analysis script, follow these instructions:
 
    ```bash
    git clone https://github.com/bhunmy/ConsoleFinance.git
-
+Instructions
 Navigate to the project directory: cd ConsoleFinance
 Open the index.html file in a web browser.
 
